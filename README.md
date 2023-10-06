@@ -1,6 +1,6 @@
 ## Task Buddy📝
 
-It's all about keeping tasks organized and productivity high.
+It's all about keeping tasks organized and productivity high.👆
 
 [Go to Project]( https://km-js.github.io/task-buddy/)
 
